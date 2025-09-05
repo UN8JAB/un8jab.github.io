@@ -1,5 +1,6 @@
-plugins:
-  - jekyll-remote-theme
-remote_theme: pages-themes/dinky@v0.2.0
+#theme: minima
 title: "Персональный блог UN8JAB"
 description: "Радиолюбительство и микроконтроллеры"
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
