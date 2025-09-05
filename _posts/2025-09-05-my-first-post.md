@@ -7,7 +7,6 @@ categories: blog
 
 Привет, это мой первый пост в блоге на **GitHub Pages**! 🎉  
 
-```markdown
 ```cpp
 #include <Arduino.h>
 void setup() {
