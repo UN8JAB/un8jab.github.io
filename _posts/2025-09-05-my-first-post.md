@@ -7,8 +7,8 @@ categories: blog
 
 Привет, это мой первый пост в блоге на **GitHub Pages**! 🎉  
 
-```c
-// Пример кода
+```markdown
+```cpp
 #include <Arduino.h>
 void setup() {
   Serial.begin(9600);
