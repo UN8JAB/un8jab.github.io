@@ -1,5 +1,5 @@
-title: "Персональный блог UN8JAB"
-description: "Радиолюбительство и микроконтроллеры"
+title: "Персональный блог радиолюбителя UN8JAB"
+description: "Электроника как хобби"
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
