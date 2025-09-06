@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Мой первый пост"
 date: 2025-09-05 18:00:00 +0500
 categories: [blog]
